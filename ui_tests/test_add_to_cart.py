@@ -31,6 +31,7 @@ def test_add_product_to_cart():
         # Open cart
         cart.open_cart_page()
 
+
         # Checkout visibility
         cart.assert_checkout_button_is_visible()
 
