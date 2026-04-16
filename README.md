@@ -99,7 +99,7 @@ The test automates the following flow:
 
 ---
 
-## 🧠 Design Decisions
+##  Design Decisions
 
 * **Page Object Model (POM):**
   Separates test logic from UI interactions for better maintainability
